@@ -5,7 +5,7 @@
 # logoutdialog
 # ------------------------------------
 # logout from the system, issue a reboot
-# or a  shutdown with an TickleTk GUI
+# or a  shutdown with a TickleTk GUI
 # ------------------------------------
 
 from tkinter import *
