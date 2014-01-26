@@ -4,7 +4,8 @@
 # ------------------------------------
 # logoutdialog
 # ------------------------------------
-# 12.01.2014 - HSP - angelegt
+# logout from the system, issue a reboot
+# or a  shutdown with an TickleTk GUI
 # ------------------------------------
 
 from tkinter import *
