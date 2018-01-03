@@ -3,7 +3,7 @@ Raspitools
 
 A collecion of my tools which I use with my various Raspberry Pi boards to make them work like I want. Because 
 python (at least for me) is the standard programming language on the Raspberry Pi all these tools are written in python. Python also
-has the advantage that it is already there when you set your Raspi with a raspian operating system.
+has the advantage that it is already there when you set up your Raspi with a raspian operating system.
 
 Logoutdialog
 ------------
